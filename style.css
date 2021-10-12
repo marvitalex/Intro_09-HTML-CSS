@@ -22,7 +22,7 @@ body {
 .avatar {
     width: 200px;
     border-radius: 50%;
-    box-shadow: 0px -10px 30px 0px #420000;
+    /* box-shadow: 0px -10px 30px 0px #420000; */
 }
 
 .info {
